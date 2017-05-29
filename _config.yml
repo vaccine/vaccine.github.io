@@ -1,1 +1,9 @@
 encoding: utf-8
+title: Gong Yubo's blog
+description: Gong Yubo's blog
+google_analytics: 
+show_downloads: false
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
