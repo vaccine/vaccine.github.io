@@ -1,0 +1,8 @@
+title: Vaccine.GitHub.io
+description: Gong Yubo's blog
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
